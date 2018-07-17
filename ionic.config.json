@@ -1,0 +1,8 @@
+{
+  "name": "pconnect-cross",
+  "app_id": "25140fcb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
